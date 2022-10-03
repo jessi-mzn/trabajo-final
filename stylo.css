@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.contenedor  {
+    margin: 10px;
+    overflow: hidden;
+    position: relative;    
+}      
+ .carousel{
+    margin: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+ }   
+ .reloj{
+    font-family: 'Times New Roman', Times, serif;
+    width: 100%;
+    padding: 20px;
+    font-size: 3em;
+    text-align: center;
+    background:rgb(193, 86, 86);     
+}   
+.titulo{
+    width: 100%;
+    text-align:center;
+    font-weight: bold;
+    margin: 30px;
+    font-size: 30px;
+}
+.card{
+    display: inline-flex;
+    margin: 20px;
+    justify-content: center;
+
+}
+div.box{
+    text-align: center;
+    margin: 35px;
+    padding: 25px;
+    background-color: rgb(193, 86, 86);
+    border-radius: 10px;
+}
+div.redes{
+    text-align: center;
+}
+
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif; background-color: rgb(130, 43, 43)  ;box-sizing: border-box;
+}
+.contacto {
+    background-color: white;
+    padding: 10px;
+    margin: 55px auto;
+    font-size: 15px;
+    border-radius: 10px;
+    width: 300px;
+    text-align: center;
+}
+          
